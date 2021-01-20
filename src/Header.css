@@ -1,7 +1,7 @@
 .header__icon {
   object-fit: contain;
-  height: 30px;
-  padding-left: 20px;
+  height: 100px;
+  margin-left: 20px;
 }
 
 .header {
